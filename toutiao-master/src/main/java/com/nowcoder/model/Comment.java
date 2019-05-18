@@ -13,7 +13,7 @@ public class Comment {
     private String content;
     private Date createdDate;
     private int status;
-
+    private int statusqq;
     public int getId() {
         return id;
     }
