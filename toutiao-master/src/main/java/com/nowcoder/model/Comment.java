@@ -14,6 +14,7 @@ public class Comment {
     private Date createdDate;
     private int status;
     private int statusqq;
+    private int statusq1q;
     public int getId() {
         return id;
     }
